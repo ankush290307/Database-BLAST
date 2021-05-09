@@ -137,7 +137,7 @@ input[type="file"]:read-only:active {
 		<center><strong>BLAST Search</strong></center>
 	</div>
 
-<center><p>Enter query sequences here  <a href='docs/parameters.html#format'>Fasta format</a></p> 
+<center><p>Enter query sequences here  Fasta format.</p> 
 <br>
 <br>
 
